@@ -1,6 +1,6 @@
 # SQL-for-data-engineering
 
-This repository contains an 8–10 week structured SQL learning plan designed for a data engineers. The roadmap emphasizes the SQL skills most relevant to ETL pipelines, analytics, and data warehousing.
+This repository contains an 8–10 week structured SQL learning plan designed for a data engineer role. The roadmap emphasizes the SQL skills most relevant to ETL pipelines, analytics, and data warehousing.
 
 Overview :
 
